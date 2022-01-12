@@ -9,4 +9,10 @@ public class Employee {
         System.out.println("Ten nhan vien:" +employeeName);
         System.out.println("Luong: " +Salary);
     }
+    void traLuong(int soTienTra){
+        Salary += soTienTra;
+    }
+    void rutLuong(int soTienRut){
+        Salary -= soTienRut;
+    }
 }
