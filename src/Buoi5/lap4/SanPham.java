@@ -45,10 +45,12 @@ public class SanPham {
         return this.thueNK;
     }
     void xuat(){
+        System.out.println("=============================");
         System.out.println("Ten SP: " +tenSP);
         System.out.println("Gia SP: " +donGia);
         System.out.println("Giam gia: " +giamGia);
         System.out.println("Thue nhap khau: " +thueNK);
+        System.out.println("=============================");
     }
 
     
