@@ -39,7 +39,7 @@ public class SanPham {
         donGia = scanner.nextDouble();
     }
     public void getThueNhapKhau(){
-        this.thueNK  = donGia / 10;;
+        this.thueNK  = donGia * 100 / 10;;
     }
     public double setThueNhapKhau(){
         return this.thueNK;
