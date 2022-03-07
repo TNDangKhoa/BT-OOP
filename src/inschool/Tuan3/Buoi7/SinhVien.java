@@ -1,4 +1,4 @@
-package inschool.Tuan3.Buoi6;
+package inschool.Tuan3.Buoi7;
 
 import java.util.Scanner;
 
@@ -84,3 +84,4 @@ public class SinhVien {
 
     
 }
+
