@@ -1,4 +1,4 @@
-package Buoi1.oo;
+package Buoi1.OO;
 
 public class EmployeeTestDrive {
     public static void main(String[] args) {

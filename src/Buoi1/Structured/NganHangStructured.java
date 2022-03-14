@@ -1,4 +1,4 @@
-package Buoi1.structured;
+package Buoi1.Structured;
 
 import java.util.Scanner;
 
