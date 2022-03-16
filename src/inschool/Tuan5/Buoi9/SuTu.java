@@ -1,6 +1,6 @@
 package inschool.Tuan5.Buoi9;
 
-public class SuTu extends Animal {
+public class SuTu extends HoMeo {
     @Override
     public void keu() {
         System.out.println("Su tu keu: rawrrrrrr!");

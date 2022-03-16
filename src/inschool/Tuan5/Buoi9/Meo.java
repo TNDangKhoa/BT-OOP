@@ -1,6 +1,6 @@
 package inschool.Tuan5.Buoi9;
 
-public class Meo extends Animal{
+public class Meo extends HoMeo{
     
     public void boiRac(){
         System.out.println("Meo boi thung rac");
